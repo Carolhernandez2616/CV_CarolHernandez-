@@ -7,7 +7,7 @@
 ## 📞 Contacto
 -**Teléfono:**
 - **Email:** [hernandezcuervocarolyurley@gmail.com]
-- **LinkedIn:** [(https://www.linkedin.com/feed/)](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [www.linkedin.com/in/carol-yurley-hernández-cuervo-74836a379](www.linkedin.com/in/carol-yurley-hernández-cuervo-74836a379)
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025- Actualidad)_
@@ -19,8 +19,11 @@
 - mesera ,cocinera y cajera.
 
 ## 🎓 Educación
-### ** SIERRA MORENA I.E.D** _(2024)_
-- Bachiller Académico.
+### ** SENA** _(2025- Actualidad)_
+
+## ** SIERRA MORENA I.E.D** _(2024)
+_Bachiller Académico.
+
 
 ## 💡 Habilidades
 - **Responsabilidad**
