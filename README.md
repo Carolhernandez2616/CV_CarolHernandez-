@@ -1,24 +1,26 @@
-# CV_Carolhernandez
+# CV_CarolHernandez
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Carol Yurley Hernandez Cuervo
+**Profesión:** _ANALISTA Y DESARROLLADORA DE SOFTWARE_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+-**Teléfono:**
+- **Email:** [hernandezcuervocarolyurley@gmail.com]
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025- Actualidad)_
+- Aprendiz En Análisis Y Desarrollo De Software.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **ALTO RIESGO STORE** _(2024)_
+- Vendedora de ropa.
+- ## **MAY@COFFE** _(2024)_
+- mesera ,cocinera y cajera.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### ** SIERRA MORENA I.E.D** _(2024)_
+- Bachiller Académico.
 
 ## 💡 Habilidades
 - **Habilidad 1**
