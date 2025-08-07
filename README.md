@@ -7,7 +7,7 @@
 ## 📞 Contacto
 -**Teléfono:**
 - **Email:** [hernandezcuervocarolyurley@gmail.com]
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [(https://www.linkedin.com/feed/)](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025- Actualidad)_
