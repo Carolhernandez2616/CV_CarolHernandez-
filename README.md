@@ -16,7 +16,7 @@
 ### **ALTO RIESGO STORE** _(2024)_
 - Vendedora de ropa.
 ## **MAY@COFFE** _(2024)_
-- mesera ,cocinera y cajera.
+- Mesera ,cocinera y cajera.
 
 ## 🎓 Educación
 ### ** SENA** _(2025- Actualidad)_
