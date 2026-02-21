@@ -1,74 +1,168 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hoja de Vida</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            background: white;
-            padding: 20px;
-            margin: auto;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .contacto, .experiencia, .educacion, .habilidades {
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Nombre Completo</h1>
-        <p><strong>Profesión:</strong> Tu profesión</p>
-        
-        <div class="section contacto">
-            <h2>Contacto</h2>
-            <p><strong>Teléfono:</strong> +57 123 456 7890</p>
-            <p><strong>Email:</strong> correo@ejemplo.com</p>
-            <p><strong>LinkedIn:</strong> linkedin.com/in/tuusuario</p>
-        </div>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portafolio Profesional</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="Css/Estilo.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      
+    />
 
-        <div class="section experiencia">
-            <h2>Experiencia Laboral</h2>
-            <p><strong>Empresa XYZ</strong> (2020 - Actualidad)</p>
-            <p>Puesto ocupado y descripción breve.</p>
+    
+  </head>
+  <body>
+    
+    <header>
+      <div class="header-container">
+        <h1>CAROL HERNANDEZ</h1>
+        <img
+          src="./img/CAROL1.jpeg"
+          alt="foto"
+          width="1000"
+          height="1000"
+        />
+      </div>
+      <div class="header-contact">
+        <a target="_blank" class="link" href="./formulario.html">Contácteme</a>
+      </div>
+    </header>
+
+    <hr class="separator" />
+
+    <main>
+      <section class="cuadro" tabindex="0" id="informacion-general">
+        <h2>ACERCA DE MÍ</h2>
+        <article>
+          <p>
+              Programadora en formación, estudiante de Tecnología en
+              Análisis y Desarrollo de Software en el SENA, apasionada
+              por programar y aprender constantemente. Cuento con
+              conocimientos en Python, JavaScript, CSS y React, y
+              experiencia académica en análisis, diseño e
+              implementación de soluciones tecnológicas, así como
+              nociones de gerencia de proyectos y control de calidad.
             
-            <p><strong>Empresa ABC</strong> (2018 - 2020)</p>
-            <p>Puesto ocupado y descripción breve.</p>
-        </div>
+          </p>
+        </article>
+        <article>
+          <p>
+            Me caracterizo por trabajar con responsabilidad, orden y
+            enfoque en el cumplimiento de requisitos técnicos, siempre
+            buscando que la tecnología sea una herramienta de
+            servicio. Mi fe en Dios guía mis valores, mi ética profesional
+            y mi compromiso por aportar soluciones útiles, bien
+            estructuradas y alineadas con el propósito de los proyectos
+            en los que participo.
+          </p>
+        </article>
+      </section>
 
-        <div class="section educacion">
-            <h2>Educación</h2>
-            <p><strong>Universidad Ejemplo</strong> (2014 - 2018)</p>
-            <p>Título obtenido.</p>
-        </div>
+      <section class="cuadro" tabindex="0" id="perfil-academico">
+        <h2>EDUCACIÓN</h2>
+        <article>
+          <p><strong>Tecnología en Análisis y
+          Desarrollo de Software:</strong> SENA
+          2025 - En Proceso</p>
+          <p><strong>Bachiller</strong> IED Sierra Morena
+          2024</p>
+        </article>
 
-        <div class="section habilidades">
-            <h2>Habilidades</h2>
-            <ul>
-                <li>Habilidad 1</li>
-                <li>Habilidad 2</li>
-                <li>Habilidad 3</li>
-            </ul>
-        </div>
-    </div>
-</body>
-    
-<script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
-<script src="https://files.bpcontent.cloud/2025/04/05/02/20250405021404-CM8Q1FN6.js"></script>
-    
+      </section>
+
+      <section class="cuadro" tabindex="0" id="experiencia-laboral">
+        <h2>EXPERIENCIA LABORAL</h2>
+        <article>
+          <p><strong>WEBMASTER: </strong>Independiente
+          2024-2026
+          <p>Mantenimiento de sitios web creados en Wordpress y
+          React.</p>
+        </article>
+        <article>
+          <p><strong>ATENCIÓN DE SERVICIO: </strong>
+            Alto Riesgo Store
+            2024
+          </p>
+        </article>
+        <article>
+          <p>
+          Servicio al Cliente, Ventas
+          </p>
+        </article>
+      </section>
+      <section class="cuadro" tabindex="0" id="proyectos">
+        <h2>PROYECTOS PERSONALES</h2>
+        <article>
+          <p>Creación de la bitacora para Investigaciones de TIC</p>
+          <a target="_blank" href="https://musical-potato-7v47qjv7qgww3xpwq-5500.app.github.dev"> Ver Proyecto </a>
+        </article>
+      </section>
+
+      <section class="cuadro" tabindex="0" id="competencias">
+        <h2>COMPETENCIAS</h2>
+        <article>
+          <p>
+            <li>Programación básica y
+            estructurada</li>
+            <li>Comunicación asertiva</li>
+            <li>Aprendizaje autonomo</li>
+            <li>Resolución de problemas</li>
+            <li>Elaboración de reportes</li>
+            <li>Trabajo en equipo</li>
+
+            
+          </p>
+        </article>
+      </section>
+
+      <section id="habilidades" class="cuadro" tabindex="0">
+        <h2>STACKS DE PROGRAMACIÓN</h2>
+        <ul>
+          <li>HTML 5</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Python</li>
+          <li>GitHub</li>
+          <li>React</li>
+          <li>Wordpress</li>
+        </ul>
+      </section>
+      <section class="cuadro" tabindex="0" id="experiencia-laboral">
+        <h2>CURSOS</h2>
+        <article>
+          <p><strong>CISCO: </strong>
+            <li>Fundamentos en HTML</li>
+            <li>Fundamentos en PYTHON</li>
+          <p><strong>PLATZI: </strong>
+            <li>Excel Básico</li>
+            <li>Excel Intermedio</li>
+            <li>Creación de Sitios Web Lovable</li>
+            <li>Marketing Digital</li>
+        </article>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 CAROL HERNANDEZ - Todos los derechos reservados</p>
+
+      <section class="github-footer">
+        <h2>Proyectos en GitHub</h2>
+        <p>
+          <strong>Explora todos mis proyectos y trabajos prácticos en mi GitHub</strong> 
+        </p>
+        <a
+          href="https://github.com/Carolhernandez2616?tab=repositories"
+          target="_blank"
+          class="link"
+          >Visita mi GitHub para más proyectos</a
+        >
+      </section>
+    </footer>
+  </body>
 </html>

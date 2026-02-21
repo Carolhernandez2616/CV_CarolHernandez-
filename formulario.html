@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="Css/formulario.css" />
+
+    
+  </head>
+  <body>
+    <main class="contact-container">
+      <h1>FORMULARIO DE CONTACTO</h1>
+      <p>Contáctame y platicamos</p>
+
+      <form>
+        <div>
+          <label for="nombre">Nombre:</label>
+          <input
+            type="text"
+            id="nombre"
+            name="nombre"
+            required
+          />
+        </div>
+
+        <div>
+          <label for="apellido">Apellido:</label>
+          <input
+            type="apellido"
+            id="apellido"
+            name="apellido"
+            required
+          />
+        </div>
+
+ <section>
+        <label>Tipo de Identificación:</label>
+        <select>
+          <option value="">Seleccione una opción</option>
+          <option>Cédula de Ciudadanía</option>
+          <option>Tarjeta de identidad</option>
+          <option>Cédula de Extranjería</option>
+        </select>
+
+ </section>
+         <div>
+          <label for="numero-de-identificación">Número de Identificación:</label>
+          <input type="text"/>
+        </div>
+
+        <div>
+          <label for="fecha-de-nacimiento">Fecha de Nacimiento:</label>
+          <input type="date"/>
+        </div>
+
+        <div>
+          <label for="numero-de-celular">Número de Celular:</label>
+          <input type="text"
+          placeholder="Ej:3001234567"
+          />
+          
+        </div>
+        <label class="aceptar">
+          <input type="checkbox" required>
+          Acepto la política de tratamiento de datos
+        </label>
+
+  
+
+        <button type="submit">Enviar</button>
+      </form>
+      
+
+      <footer>
+        
+        <section class="github-footer">
+          <h2>Proyectos en GitHub</h2>
+          <p>
+            Explora todos mis proyectos y trabajos prácticos en mi GitHub
+          </p>
+          <a href="https://github.com/Carolhernandez2616?tab=repositories" target="_blank"
+            >Visita mi GitHub para más proyectos</a
+          >
+        </section>
+      </footer>
+    </main>
+  </body>
+</html>
