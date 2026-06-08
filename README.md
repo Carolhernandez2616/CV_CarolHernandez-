@@ -8,4 +8,5 @@ Bienvenido a mi portafolio personal.
 Puedes visitar el portafolio en el siguiente link:
 https://github.com/Carolhernandez2616
 
-Estudiante de Análisis y Desarrollo de Software – SENA.
+<h1>Estudiante de Análisis y Desarrollo de Software – SENA.
+</h1>
